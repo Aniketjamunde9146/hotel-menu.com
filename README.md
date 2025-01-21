@@ -1,1 +1,1 @@
-# hotel-menu.com
+# hotel-menu-qr.com
